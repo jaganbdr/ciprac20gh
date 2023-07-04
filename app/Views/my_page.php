@@ -55,7 +55,7 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav mx-auto py-0">
                         <a href="#home" class="nav-item nav-link active">Home</a>
-                        <a href="#about" class="nav-item nav-link">About</a>
+                        <a href="/mypage" class="nav-item nav-link">About</a>
                         <a href="#feature" class="nav-item nav-link">Feature</a>
                         <a href="#pricing" class="nav-item nav-link">Pricing</a>
                         <a href="#review" class="nav-item nav-link">Review</a>
